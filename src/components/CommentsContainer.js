@@ -2,37 +2,37 @@ import React from "react";
 
 const commentsData = [
   {
-    name: "Akshay Saini",
+    name: "Reshma Shaik",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Akshay Saini",
+    name: "Yakub Shaik",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [
       {
-        name: "Akshay Saini",
+        name: "Nazmin Shaik",
         text: "Lorem ipsum dolor sit amet, consectetur adip",
         replies: [],
       },
       {
-        name: "Akshay Saini",
+        name: "Mehnaz Shaik",
         text: "Lorem ipsum dolor sit amet, consectetur adip",
         replies: [
           {
-            name: "Akshay Saini",
+            name: "xyz",
             text: "Lorem ipsum dolor sit amet, consectetur adip",
             replies: [
               {
-                name: "Akshay Saini",
+                name: "abc",
                 text: "Lorem ipsum dolor sit amet, consectetur adip",
                 replies: [
                   {
-                    name: "Akshay Saini",
+                    name: "pqr",
                     text: "Lorem ipsum dolor sit amet, consectetur adip",
                     replies: [
                       {
-                        name: "Akshay Saini",
+                        name: "uhyt",
                         text: "Lorem ipsum dolor sit amet, consectetur adip",
                         replies: [],
                       },
@@ -52,22 +52,22 @@ const commentsData = [
     ],
   },
   {
-    name: "Akshay Saini",
+    name: "nhgtresd",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Akshay Saini",
+    name: "poiuyt",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Akshay Saini",
+    name: "mjhuyt",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Akshay Saini",
+    name: "bhgytres",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
